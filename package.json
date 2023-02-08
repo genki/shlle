@@ -1,6 +1,6 @@
 {
   "name": "shlle",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Execute shell commands with reversed args",
   "main": "index.js",
   "scripts": {
