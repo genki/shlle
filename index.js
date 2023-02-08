@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const cp = require("child_process");
 
 function execute(cmd, ...args) {
